@@ -1,0 +1,7 @@
+{
+  "name": "SpaceTuner Pro",
+  "description": "Professional Handpan and Tongue Drum tuner with meditative visuals, custom scales, and precise frequency analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
