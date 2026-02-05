@@ -1,6 +1,6 @@
 # SpaceTuner Pro
 
-A professional Progressive Web App (PWA) for tuning Handpans and Tongue Drums. Built with React, TailwindCSS, and the Web Audio API. Now also available as a native mobile app for Android and iOS!
+A professional app for tuning Handpans and Tongue Drums. Built with React, TailwindCSS, and the Web Audio API. Now also available as a native mobile app for Android and iOS!
 
 ## Project Structure
 
